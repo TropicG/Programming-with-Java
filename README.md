@@ -13,3 +13,5 @@ Programming with Java
   - Introduction to interfaces and how to implement one
   - Creating a interfaces and extends 2 more interfaces and a class to implement them + creating an abstract class
 
+  The problem for this exercise is a mini-project and you can find the requirement and how it works in the Problems folder
+
