@@ -15,3 +15,11 @@ Programming with Java
 
   The problem for this exercise is a mini-project and you can find the requirement and how it works in the Problems folder
 
+ 3rd Exercise covers:
+   - Understanding of the enum class
+   - Understanding the creation of a custom exception
+   - Understanding how initializers work
+   - Understanding how to use the record class
+   - Understanding the sealed class
+
+  The problem for this exercise is a mini-project and you can find the requirement and how it works in the Problems folder
